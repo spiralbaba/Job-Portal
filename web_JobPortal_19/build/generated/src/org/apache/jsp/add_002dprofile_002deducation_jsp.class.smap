@@ -1,0 +1,21 @@
+SMAP
+add_002dprofile_002deducation_jsp.java
+JSP
+*S JSP
+*F
++ 0 add-profile-education.jsp
+add-profile-education.jsp
+*L
+1,8:44
+8,2:52
+11,4:55
+14,15:59
+29,2:74,3
+31,6:80
+37:86,3
+38,4:89
+42:93,5
+43,12:98
+55:110,3
+56,3:113
+*E
